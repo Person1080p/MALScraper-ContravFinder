@@ -1,1 +1,2 @@
 # MALScraper-ContravFinder
+- This Project will consist of 2 bash scripts, 1 that handles scraping MAL to get the advanced stats from a show ID, 2nd script will handle iterating over a range to then find the most controversial shows (highest statistical variance)
